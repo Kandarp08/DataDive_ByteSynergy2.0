@@ -1,0 +1,5523 @@
+Income, Employment and Poverty
+
+Women Work Participation Rate 2001 (%)
+
+North
+Karnataka
+South
+Karnataka
+
+26.2
+
+34.9
+
+28.5
+
+33.3
+
+34.7
+
+32.7
+37.7
+38.9
+
+28.6
+
+35.9
+27.8
+
+33.7
+30.1
+
+37.7
+28.0
+
+33.9
+
+39.0
+
+41.3
+
+30.9
+
+Bangalore Urban
+18.7
+
+39.7
+41.7
+33.9
+
+34.7
+
+36.2
+25.3
+31.1
+
+CHAPTER 4
+
+Income, Employment and Poverty
+Introduction
+Poverty has received special policy focus among
+the international development goals accepted by
+the UN member countries on the eve of the new
+millennium. In fact, it is the first and foremost
+goal specified in the Millennium Development
+Goals. The goal is to reduce poverty by half
+between the base year 1990, and the reference
+year, 2015. What is most important here is the
+explicit recognition that poverty has multiple
+dimensions, with implications for opportunities,
+security and empowerment. Any discussion
+on poverty during the new millennium must,
+therefore, focus on the different dimensions of
+deprivation and their policy implications before
+attempting to evaluate policy efforts to deal
+with them. This chapter will highlight issues
+relating to poverty, income and employment in
+Karnataka along with policy efforts to deal with
+these issues.
+
+Income distribution and
+income poverty: Institutional
+parameters
+Income and consumption distribution, and
+the incidence of income poverty depend on
+the distribution of assets and employment
+opportunities for utilising the only endowment of
+the asset-less rural poor, i.e. labour, and its price,
+viz. real wage rate. Hence, this section will examine
+the situation in rural Karnataka with respect to
+these factors that have critical implications for
+income distribution and poverty.
+The sectoral distribution of state income shows a
+decline in the share of the primary sector from
+38.10 per cent in 1993-94 to 20.90 per cent
+in 2003-04. The secondary sector’s share
+has increased marginally, from 24 per cent in
+1993-94 to 25.5 per cent in 2003-04. There
+is, however, a significant increase in the share of
+the tertiary sector, with 37.9 per cent in 1993-94
+increasing to nearly 54 per cent in 2003-04,
+contributing to more than half of the state’s
+income.
+
+TABLE 4.1
+
+Sectoral shares of Net State Domestic Product (at 1993-94 prices)
+Sector
+
+Share in NSDP (per cent)
+1993-94
+
+2003-04
+
+Primary sector
+
+38.10
+
+20.90
+
+Secondary sector
+
+24.00
+
+25.50
+
+Tertiary sector
+
+37.90
+
+53.60
+
+Source: Directorate of Economics and Statistics, Karnataka.
+
+The average area of operational holdings1
+in Karnataka in 1991-92 was 1.85 hectare
+(ha.), which was higher than the all-India
+estimate of 1.34 ha. The extent of inequality
+in the distribution of operational holdings, as
+measured by the Gini ratio, was 0.609 (0.641)
+in rural Karnataka (all-India). Available estimates
+indicate an increase in the extent of inequality
+between three time-points in rural Karnataka
+as well as in rural all-India (Table 4.2).
+During the same period, the percentage of
+marginal holdings increased from 28.76
+per cent (45.77 per cent) to 38.40 per cent (56.00
+per cent), and finally, to 49.71 per cent (62.79
+per cent) in rural Karnataka (rural all-India);
+the corresponding estimates of area operated
+were 5.10 per cent (9.21 per cent), 5.80
+per cent (11.50 per cent) and 9.56 per cent
+(15.60 per cent) respectively (NSSO 1997).
+The distributional perspective indicates that
+the percentage of tenant holdings is low in
+Karnataka (8.0 per cent in 1991-92) relative
+to the all-India level (11.0 per cent) (NSSO
+1997). This is an outcome of the land reforms
+implemented in the 1980s. However, from
+the perspective of vulnerability (a major focus
+of any debate on deprivation), the percentage
+
+1
+
+Poverty is the first and
+foremost goal specified
+in the Millennium
+Development Goals.
+
+The NSS defines an operational holding as a techno-economic
+unit used wholly or partly for agricultural production and
+operated (directed/managed) by one person alone, or with the
+assistance of others, without regard to title, size or location. The
+unit may consist of one or more parcels of land and would be
+comprehensive with respect to land, agricultural equipments,
+machinery and draught animals etc.
+
+75
+
+Income, Employment and Poverty
+
+TABLE 4.2
+
+Changes in Gini Coefficient of operational holdings in 15 major states
+State
+
+Gini Coefficient
+
+of irrigated operated area was as low as
+19.33 per cent in Karnataka, as against the
+all-India average of 35.39 per cent in 1991-92
+(NSSO 1997). This has serious implications for
+agricultural production and productivity, as well
+as for poverty and deprivation.
+
+1970-71
+
+1981-82
+
+1991-92
+
+Average area (ha.)
+1991-92
+
+Andhra Pradesh
+
+0.603
+
+0.599
+
+0.576
+
+1.29
+
+Assam
+
+0.422
+
+0.519
+
+0.494
+
+0.88
+
+Bihar
+
+0.556
+
+0.606
+
+0.637
+
+0.75
+
+Consumption pattern by occupation
+
+Gujarat
+
+0.540
+
+0.558
+
+0.604
+
+1.99
+
+Haryana
+
+0.464
+
+0.598
+
+0.675
+
+2.19
+
+Karnataka
+
+0.527
+
+0.581
+
+0.609
+
+1.85
+
+Kerala
+
+0.647
+
+0.649
+
+0.636
+
+0.35
+
+Madhya Pradesh
+
+0.533
+
+0.535
+
+0.558
+
+2.24
+
+Maharashtra
+
+0.526
+
+0.571
+
+0.598
+
+2.25
+
+Orissa
+
+0.501
+
+0.526
+
+0.514
+
+1.13
+
+Punjab
+
+0.418
+
+0.702
+
+0.730
+
+1.46
+
+Rajasthan
+
+0.564
+
+0.604
+
+0.613
+
+3.08
+
+Tamil Nadu
+
+0.516
+
+0.640
+
+0.646
+
+0.71
+
+Uttar Pradesh
+
+0.495
+
+0.565
+
+0.572
+
+1.01
+
+West Bengal
+
+0.490
+
+0.597
+
+0.585
+
+0.60
+
+India
+
+0.586
+
+0.629
+
+0.641
+
+1.34
+
+The economic profile of the population by different
+occupational categories, their relative importance
+and their differential participation in the growth
+process provides invaluable inputs for poverty
+reduction policies. Such a profile can be explained
+with the help of important measures of the quality
+of life such as monthly per capita consumer
+expenditure (MPCE), incidence of poverty and
+relative inequality in levels of living. The relative
+importance of each occupational group from
+the perspective of equity can be assessed with
+reference to its relative size, i.e. its percentage
+share in the total population. Estimates of all
+the relevant parameters are provided in Table
+4.3. Some major features of the profiles by
+occupational categories are presented in Box 4.1.
+
+Source: Government of India (1997): Land and Livestock Holdings Survey NSS Forty-Eighth Round (January – December
+1992) Report 2 Operational Land Holdings in India 1991-92 Salient Features, National Sample Survey
+Organisation, Department of Statistics, Ministry of Planning and Programme Implementation, New Delhi; p. 26.
+
+BOX 4.1
+
+Major features of occupational categories
+1. Agricultural labour households constitute the largest segment and account for 40 per cent
+of the total population in rural Karnataka.The average level of consumption of this segment
+is the lowest. The extent of relative inequality in consumption is also low. Accordingly, the
+incidence of poverty among agricultural labour households is the highest across different
+occupational groups. Variations in real wages and district poverty estimates are closely
+interlinked, providing good inputs for strategies for improving the levels of living of the
+poor.
+2. The self-employed in agriculture constitute the second largest segment (38 per cent). Its
+average consumption level being relatively higher, its incidence of poverty is the second
+lowest in rural Karnataka. Agricultural labour households, together with the self-employed
+in agriculture, constitute the bulk (78 per cent) of the rural population.
+3. In urban Karnataka, the regular wage/salary earning class constitutes the largest
+occupational group. It is also the richest in terms of measures of average consumption and
+deprivation; incidence of poverty in this group is a mere 14.43 per cent. Casual labour
+households, though accounting for less than a sixth of total urban population, constitute
+the poorest segment. Their average consumption is the lowest and more than half of them
+are poor.
+
+76
+
+Rate of growth and regional
+disparities
+Karnataka’s economy grew at the rate of 4.8
+per cent per annum during the decade of the
+1980s, i.e. at a rate less than the all-India average
+of 5.4 per cent (World Bank, 2002c). However, its
+growth rate picked up in the 1990s when it reached
+6.9 per cent and exceeded the all-India average
+(6.1 per cent).
+Between 1993-94 and 2003-04, the state’s
+manufacturing and service sectors grew at 7.50
+and 10.61 per cent respectively (Table 4.4), while
+the primary sector grew at a relatively lower rate
+of 0.61 per cent per annum. During this period,
+the economy as a whole grew at a rate of 6.84
+per cent per annum and the average growth rate
+of per capita income has been commendable at
+5.30 per cent per annum.
+Consequently, Karnataka’s share in the total
+GDP of the nation increased from 4.8 per cent
+in 1990-91 to 5.22 per cent in 2001-02 (GoK,
+Economic Survey 2002-03). In 2002-03, the
+
+Karnataka Human Development Report 2005
+
+TABLE 4.3
+
+Levels of living, inequality and poverty by occupational groups: Karnataka and all-India (1999-2000)
+Household
+type
+
+Share in
+total
+population
+(%)
+
+Average
+per capita
+consumption
+(Rs./month)
+
+Proportion of
+poor
+population
+(%)
+
+Relative
+inequality in
+consumption
+-distribution
+(Lorenz ratio
+%)
+
+Share in
+total
+population
+(%)
+
+Average
+per capita
+consumption
+(Rs./month)
+
+Rural Karnataka
+
+Proportion
+of
+poor
+population
+(%)
+
+Relative
+inequality in
+consumption
+distribution
+(Lorenz ratio
+%)
+
+Rural all-India
+
+Self-employed
+non-agriculture
+
+10.38
+
+593.04
+
+13.22
+
+27.36
+
+13.82
+
+502.28
+
+23.78
+
+25.51
+
+Agri. labour
+
+40.08
+
+411.28
+
+25.05
+
+19.72
+
+31.05
+
+385.98
+
+41.46
+
+22.22
+
+Other labour
+
+4.61
+
+488.05
+
+19.89
+
+23.66
+
+7.39
+
+482.74
+
+27.01
+
+25.69
+
+Self-employed
+agriculture
+
+37.68
+
+533.22
+
+12.57
+
+23.53
+
+37.71
+
+519.53
+
+20.43
+
+25.31
+
+Others
+
+7.20
+
+687.68
+
+5.50
+
+26.68
+
+9.85
+
+652.05
+
+13.76
+
+29.26
+
+All
+
+100.00
+
+499.60
+
+18.08
+
+24.48
+
+100.00
+
+485.88
+
+27.73
+
+26.58
+
+Urban Karnataka
+
+Urban all-India
+
+Self-employed
+
+34.49
+
+847.90
+
+27.91
+
+30.59
+
+39.09
+
+812.96
+
+27.46
+
+35.00
+
+Regular wage/
+salary earning
+
+41.35
+
+1081.97
+
+14.43
+
+31.42
+
+39.86
+
+981.49
+
+13.01
+
+31.16
+
+Casual labour
+
+16.90
+
+541.29
+
+52.98
+
+23.23
+
+14.28
+
+540.66
+
+50.51
+
+30.00
+
+Others
+
+7.06
+
+1101.20
+
+15.17
+
+34.42
+
+6.42
+
+1030.82
+
+17.45
+
+36.23
+
+All
+
+100.00
+
+910.78
+
+25.83
+
+62.75
+
+100.00
+
+854.70
+
+24.58
+
+34.68
+
+Notes:
+1. Estimates of different measures are based on data from Government of India (2001e): Differences in Level of Consumption among Socio-Economic Groups 1999-2000, National Sample
+Survey Organisation, New Delhi.
+2. Estimates of rural and urban poverty correspond to the Government of India Expert Group Poverty Lines per month at current prices for the year 1999-2000 as follows: Rs. 309.59 (Rural
+Karnataka), Rs. 327.56 (Rural all-India), Rs. 511.44 (Urban Karnataka) and Rs. 454.11 (Urban all-India) published in Government of India (2001d): Poverty Estimates for 1999-2000,
+Press Information Bureau, New Delhi.
+3. These estimates of poverty are made with reference to mean consumption, poverty line and parameters of the Lorenz curve.
+4. The estimates of aggregate poverty (all households) for rural/urban Karnataka differ from those presented in Table 4.9 because of differences in methodology.
+
+per capita State Domestic Product at current
+prices (Rs.19,865) was higher than the national
+average (Rs.18,912) (GoK, Economic Survey
+2004-05).
+Karnataka is marked by strong regional disparities.
+Bangalore Urban and Dakshina Kannada emerged
+as the most developed districts in 1980-81
+(Iyengar and Sudarshan, 1983) with Kodagu,
+Shimoga, Dharwad and Belgaum following
+closely behind. Bellary, Mandya, Chikmaglur,
+Mysore, Chitradurga, Uttara Kannada and Kolar
+were in the developing category. Hassan, Tumkur
+and Bijapur were the backward districts. Three
+Hyderabad Karnataka districts, viz. Raichur, Bidar
+
+and Gulbarga, emerged as the most backward
+districts of Karnataka. By 2001-02, Bangalore
+Urban, Kodagu, Dakshina Kannada, Bangalore
+Rural, Udupi, Mysore and Chikmaglur were
+generating a per capita domestic product higher
+than the state average (Table 4.5). The city of
+Bangalore alone contributed about 22 per cent
+of the state income; Bangalore Rural and Urban
+districts together generated a quarter of the state
+income.These two districts share nearly 16 per cent
+of the state’s population in 2001. Bijapur, along
+with the Hyderabad Karnataka triumvirate of
+Bidar, Gulbarga and Raichur continued to be
+in the poorest quartile in terms of per capita
+domestic product. The pattern of growth over two
+77
+
+Income, Employment and Poverty
+
+TABLE 4.4
+
+Net Domestic Product at factor cost by industry of origin (at 1993-94 prices)
+Industry
+
+Primary
+
+Secondary
+
+Total NSDP
+
+(Rs. lakh)
+
+Growth rate (Rs. lakh) Growth rate
+(% per
+(% per
+annum)
+annum)
+
+(Rs. lakh)
+
+887568
+
+1401726
+
+3698229
+
+(Rs. lakh)
+
+1993-94
+
+1408934
+
+1994-95
+
+1399646
+
+-0.66
+
+959367
+
+8.09
+
+1532692
+
+9.34
+
+3891705
+
+5.23
+
+8097
+
+3.30
+
+1995-96
+
+1428078
+
+2.03
+
+982761
+
+2.44
+
+1686550
+
+10.04
+
+4097390
+
+5.29
+
+8368
+
+3.35
+
+1996-97
+
+1497911
+
+4.89
+
+1076722
+
+9.56
+
+1899022
+
+12.60
+
+4473655
+
+9.18
+
+8990
+
+7.44
+
+1997-98
+
+1458813
+
+-2.61
+
+1205367
+
+11.95
+
+2087502
+
+9.93
+
+4751682
+
+6.21
+
+9416
+
+4.73
+
+1998-99
+
+1624978
+
+11.39
+
+1456045
+
+20.80
+
+2315069
+
+10.90
+
+5396093
+
+13.56
+
+10549
+
+12.04
+
+1999-2000
+
+1782517
+
+9.69
+
+1325530
+
+-8.96
+
+2546280
+
+9.99
+
+5654327
+
+4.79
+
+10912
+
+3.44
+
+2000-01
+
+2007800
+
+12.63
+
+1370200
+
+3.36
+
+2880000
+
+13.10
+
+6258100
+
+10.67
+
+11939
+
+9.41
+
+2001-02
+
+1704100
+
+-15.13
+
+1538900
+
+12.31
+
+3155200
+
+9.55
+
+6298200
+
+2.23
+
+12029
+
+0.75
+
+2002-03
+
+1585400
+
+-6.97
+
+1702600
+
+10.63
+
+3453600
+
+9.45
+
+6741600
+
+5.36
+
+12518
+
+4.06
+
+2003-04
+(Q.E.)
+
+1497000
+
+-5.58
+
+1828400
+
+7.38
+
+3841700
+
+11.23
+
+7167200
+
+6.31
+
+13141
+
+4.97
+
+0.61
+
+7.50
+
+10.61
+
+Growth rate
+(% per
+annum)
+
+Per capita NSDP
+
+Year
+
+Average
+Annual
+Growth*
+
+Growth rate
+(% per
+annum)
+
+Tertiary
+
+(Rs.)
+
+Growth rate
+(% per
+annum)
+
+7838
+
+6.84
+
+5.30
+
+Note: * Compound growth rate.
+Source: Directorate of Economics and Statistics, Karnataka.
+
+decades indicates a stratification of districts based
+on geographic location, with the northern districts
+consistently performing poorly. This has serious
+implications for the distribution of poverty across
+districts.
+
+Labour productivity: Regional
+dimensions
+
+An encouraging trend is
+the fact that out of the
+seven districts which have
+experienced growth rates
+higher than the state
+average, Koppal, Gadag,
+Haveri and Bagalkot are
+in north Karnataka.
+78
+
+Estimates of the level of labour productivity and
+its growth are important indicators of poverty
+and human development. They measure the
+potential for improvement in the quality of life
+of the people. Estimates of labour productivity
+for all the 27 districts for the year 2000-01
+(Table 4.6) reveal that labour productivity was
+highest in Bangalore Urban district, followed by
+Kodagu and Dakshina Kannada districts in 1991,
+and these districts retained their ranking in 2001
+as well (except Kodagu). It may be noted that all
+districts (except Dharwad) in north Karnataka
+had labour productivity below the state average
+in 1991 and 2001. While Haveri district had the
+
+lowest labour productivity in 1991, followed by
+Tumkur and Koppal districts, in 2001 Raichur
+had the lowest labour productivity, followed by
+Tumkur and Haveri districts. The relative ranking
+of Raichur district has come down from 17 in
+1991 to 27 in 2001. The annual compound
+growth of labour productivity was the highest in
+Bangalore Rural, followed by Bangalore Urban
+between 1991 and 2001. Other districts which
+have growth rates higher than the state average
+(5.30) are Koppal, Mysore, Gadag, Haveri and
+Bagalkot. An encouraging trend is the fact that
+out of the seven districts which have experienced
+growth rates higher than the state average,
+Koppal, Gadag, Haveri and Bagalkot are in north
+Karnataka.
+
+Migration
+According to the NSS data on migration for
+the year 1999-2000, about 27 per cent of the
+state’s population is migrant. The proportion of
+migration in urban Karnataka is 33 per cent as
+
+Karnataka Human Development Report 2005
+
+compared to 26 per cent migrant population in
+rural areas. Among the total migrants, female
+migrants (77 per cent) outnumber male migrants
+(23 per cent) significantly. However, the proportion
+of females who migrate for reasons of employment
+is significantly lower than males. A high percentage
+of migrants, 57.3 per cent of urban and 34.2
+per cent of rural migrants, are males who migrated
+in search of employment contrasted with only
+3.9 per cent urban females and 1.8 per cent
+rural females.
+
+Trends in wages and prices
+Agricultural labourers constitute the bulk of the
+rural poor in Karnataka. Their endowment of
+assets is virtually nil; hence, their level of living
+depends upon their income earning potential,
+as reflected in the available employment
+opportunities and real wages for unskilled labour.
+Available estimates indicate that average real
+wages (i.e. nominal wages adjusted for increase
+in cost-of-living reported by the Consumer
+Price Index for Agricultural Labourers) in rural
+Karnataka in December 2004 exceeded the level
+in the agricultural year (AY) 1993-94 by about
+47 per cent for men and 35.4 per cent for women
+respectively (Table 4.7). When compared with the
+base period of 1993-94, real wages for women
+are lower by 12 percentage points as compared
+to men.
+There are wide variations across districts in the
+changes in real wages in comparison with the
+base period, 1993-94. Dharwad has registered
+the highest increase in real wages for men
+between 1993-94 and 2003-04 (161 per cent)
+followed by Haveri (156 per cent). Kodagu has
+experienced negative changes in real wages for
+men, while Kolar and Mandya have experienced
+no change in real wages for men. Changes in
+real wages for women during this period are the
+highest in Haveri district (203 per cent), followed
+by 100.56 per cent in Dharwad, while Mandya has
+experienced negative changes. The above analysis
+shows that real wages for men have increased
+substantially more than the wages for women
+during the period from 1993-94 to December
+2004. This trend is discussed in greater detail in
+the chapter on gender.
+
+TABLE 4.5
+
+Estimates of Net District Domestic Product at current prices: 2001-02
+District
+
+Net District
+Domestic Product
+(Rs. lakh)
+
+Per capita
+NDDP (Rs.)
+
+Share in state NSDP
+(per cent)
+
+Bagalkot
+
+261180
+
+15638
+
+2.8
+
+Bangalore Urban
+
+2097138
+
+31804
+
+22.5
+
+Bangalore Rural
+
+414126
+
+21821
+
+4.4
+
+Belgaum
+
+642472
+
+15106
+
+6.9
+
+Bellary
+
+323854
+
+15819
+
+3.5
+
+Bidar
+
+168077
+
+11075
+
+1.8
+
+Bijapur
+
+239266
+
+13085
+
+2.5
+
+Chamarajnagar
+
+135296
+
+13880
+
+1.4
+
+Chikmaglur
+
+220799
+
+19175
+
+2.3
+
+Chitradurga
+
+207120
+
+13567
+
+2.2
+
+Dakshina Kannada
+
+524735
+
+27373
+
+5.6
+
+Davangere
+
+254300
+
+14056
+
+2.7
+
+Dharwad
+
+273630
+
+16878
+
+2.9
+
+Gadag
+
+137685
+
+14013
+
+1.5
+
+Gulbarga
+
+380602
+
+12049
+
+4.1
+
+Hassan
+
+240021
+
+13794
+
+2.5
+
+Haveri
+
+174367
+
+11996
+
+1.9
+
+Kodagu
+
+133400
+
+24200
+
+1.4
+
+Kolar
+
+345638
+
+13550
+
+3.7
+
+Koppal
+
+183016
+
+15170
+
+2.0
+
+Mandya
+
+244670
+
+13739
+
+2.6
+
+Mysore
+
+478344
+
+18027
+
+5.1
+
+Raichur
+
+182772
+
+10970
+
+2.0
+
+Shimoga
+
+278223
+
+16787
+
+3.0
+
+Tumkur
+
+337555
+
+12945
+
+3.7
+
+Udupi
+
+236505
+
+21087
+
+2.6
+
+Uttara Kannada
+
+223493
+
+16337
+
+2.4
+
+9338282
+
+17518
+
+100.00
+
+Karnataka
+
+Source: State Domestic Product 2001-02, Directorate of Economics and Statistics, Karnataka, 2003, Bangalore, p. 62.
+
+Income deprivation
+A crucial aspect of material deprivation is income
+deprivation, which is examined in terms of
+estimates of poverty based on the National Sample
+Survey on household consumer expenditure
+distribution, which is generally used as a proxy for
+income distribution.
+79
+
+Income, Employment and Poverty
+
+TABLE 4.6
+
+Estimates of Gross Domestic Product per worker
+(at 1993-94 prices)
+Districts
+
+1990-91
+(Rs.)
+
+2000-01
+(Rs.)
+
+Growth rate
+(per cent per annum)
+
+Bagalkot
+
+15498
+
+26821
+
+5.64
+
+Bangalore Urban
+
+32691
+
+63641
+
+6.89
+
+Bangalore Rural
+
+14197
+
+36454
+
+9.89
+
+Belgaum
+
+16494
+
+25106
+
+4.29
+
+Bellary
+
+16845
+
+27328
+
+4.96
+
+Bidar
+
+13041
+
+20833
+
+4.80
+
+Bijapur
+
+15914
+
+23147
+
+3.82
+
+Chamarajnagar
+
+14717
+
+22137
+
+4.17
+
+Chikmaglur
+
+21362
+
+29703
+
+3.35
+
+Chitradurga
+
+14496
+
+21478
+
+4.01
+
+Dakshina Kannada
+
+29034
+
+41893
+
+3.73
+
+Davangere
+
+15584
+
+23058
+
+4.00
+
+Dharwad
+
+20009
+
+29724
+
+4.04
+
+Gadag
+
+12653
+
+22764
+
+6.05
+
+Gulbarga
+
+13095
+
+20159
+
+4.41
+
+Hassan
+
+14017
+
+20653
+
+3.95
+
+Haveri
+
+10645
+
+18922
+
+5.92
+
+Kodagu
+
+32280
+
+38983
+
+1.90
+
+Kolar
+
+13804
+
+19867
+
+3.71
+
+Koppal
+
+12459
+
+23677
+
+6.63
+
+Mandya
+
+13749
+
+20996
+
+4.32
+
+Mysore
+
+17300
+
+31494
+
+6.17
+
+Raichur
+
+14434
+
+17232
+
+1.79
+
+Shimoga
+
+18605
+
+28181
+
+4.24
+
+Tumkur
+
+12182
+
+18628
+
+4.34
+
+Udupi
+
+23824
+
+35544
+
+4.08
+
+Uttara Kannada
+
+18860
+
+28342
+
+4.16
+
+Karnataka
+
+17604
+
+29509
+
+5.30
+
+Note: The concept ‘worker’ includes both main and marginal workers.
+Source: Government of Karnataka (2003): State Domestic Product 2001-02, Directorate of Economics and Statistics,
+Bangalore.
+
+Estimates reveal a reduction in the number
+of the poor from 156.45 lakh in 1993-94 to
+104.40 lakh in 1999-2000 in Karnataka, i.e. by
+about 33 per cent (Table 4.8). This performance
+is much better than the all-India reduction by
+18.8 per cent (from 3,203.68 lakh to 2,602.50
+lakh) during the same period. As a proportion
+80
+
+of the population, poverty in Karnataka declined
+from 33.16 to 20.04 per cent (reduction of about
+13 percentage points) as against the all-India
+decline from 35.97 to 26.10 per cent (reduction
+of 10 percentage points) during the same period.
+As a result of economic growth and the poverty
+reduction strategies of the government, the state
+is moving towards achieving the Millennium
+Development Goals. The government must,
+however, ensure that the process of growth and
+poverty alleviation policies continues and the
+disparities of caste, gender and region addressed
+at the grassroots level.
+Table 4.9 shows that in 1993-94, Kodagu, with
+its per capita domestic product of Rs.13,718
+was first among all the districts, while in 19992000 Bangalore Urban is first with Rs.25,740.
+Bidar continues as the poorest performer in the
+list of 20 districts, though its per capita domestic
+product increased by 46 per cent during this
+period. Head count ratio indicates that in 1993-94,
+Bidar had the highest percentage of poor people
+(56.1 per cent). Bangalore Rural has seen a
+tremendous decline in its head count ratio from
+38.2 per cent in 1993-94 to 5.2 per cent in 19992000. One interesting point to note is that in
+Raichur, the head count ratio has, indeed, increased
+subsequently.This is an important area where state
+policy will have to take remedial steps.
+
+Poverty and levels of living by social
+groups
+This section provides a profile across different
+social groups (Table 4.10). The Scheduled Caste
+(SC) households account for about 20 per cent
+of the rural population. Together with Scheduled
+Tribe (ST) households, they form nearly 28 per cent
+of the rural population. These two social categories
+have the lowest levels of average consumption
+and the highest incidence of poverty. About 25
+per cent of their respective populations is poor. In
+urban Karnataka, the combined population share
+of the SCs and STs is about 15 per cent. Nearly
+half of these two social categories are poor, whereas
+this proportion comes to only a sixth for other
+households.Thus, there exists a sharp gap between
+these social groups and the rest of the population in
+terms of improvements in levels of living.
+
+Karnataka Human Development Report 2005
+
+TABLE 4.7
+
+Agricultural wages for men and women: Karnataka
+District
+
+(Rs. per day at current prices)
+Men
+1993-94
+
+Dec-2004
+
+Women
+Nominal ratio
+
+1993-94
+
+Dec-2004
+
+Nominal ratio
+
+Change (adjusted for
+CPIAL)
+(1993-94 - Dec. 2004)
+Men
+
+Women
+
+Bagalkot
+
+21.9
+
+52.78
+
+2.41
+
+14.4
+
+30.08
+
+2.09
+
+35.39
+
+17.42
+
+Bangalore Urban
+
+29.5
+
+81.95
+
+2.78
+
+26.0
+
+68.38
+
+2.63
+
+56.18
+
+47.75
+
+Bangalore Rural
+
+28.3
+
+62.99
+
+2.23
+
+19.1
+
+35.86
+
+1.88
+
+25.28
+
+5.62
+
+Belgaum
+
+20.9
+
+50.62
+
+2.42
+
+15.0
+
+34.94
+
+2.33
+
+35.96
+
+30.9
+
+Bellary
+
+15.6
+
+51.56
+
+3.31
+
+12.9
+
+35.69
+
+2.77
+
+85.96
+
+55.62
+
+Bidar
+
+24.6
+
+74.44
+
+3.03
+
+16.0
+
+30.00
+
+1.88
+
+70.22
+
+5.62
+
+Bijapur
+
+21.9
+
+82.89
+
+3.78
+
+14.4
+
+37.33
+
+2.59
+
+112.36
+
+45.51
+
+Chamarajnagar
+
+26.7
+
+64.93
+
+2.43
+
+16.7
+
+46.50
+
+2.78
+
+36.52
+
+56.18
+
+Chikmaglur
+
+26.8
+
+60.81
+
+2.27
+
+21.4
+
+41.69
+
+1.95
+
+27.53
+
+9.55
+
+Chitradurga
+
+19.8
+
+46.94
+
+2.37
+
+14.0
+
+36.11
+
+2.58
+
+33.15
+
+44.94
+
+Dakshina Kannada
+
+32.9
+
+75.00
+
+2.28
+
+21.6
+
+50.00
+
+2.31
+
+28.09
+
+29.78
+
+Davangere
+
+19.8
+
+47.61
+
+2.40
+
+14.0
+
+37.47
+
+2.68
+
+34.83
+
+50.56
+
+Dharwad
+
+13.6
+
+63.08
+
+4.64
+
+10.4
+
+37.09
+
+3.57
+
+160.67
+
+100.56
+
+Gadag
+
+13.6
+
+42.59
+
+3.13
+
+10.4
+
+36.84
+
+3.54
+
+75.84
+
+98.88
+
+Gulbarga
+
+21.6
+
+55.67
+
+2.58
+
+12.0
+
+30.36
+
+2.53
+
+44.94
+
+42.13
+
+Hassan
+
+17.5
+
+45.63
+
+2.61
+
+14.9
+
+30.56
+
+2.05
+
+46.63
+
+15.17
+
+Haveri
+
+13.6
+
+61.98
+
+4.56
+
+10.4
+
+56.21
+
+5.40
+
+156.18
+
+203.37
+
+Kodagu
+
+29.9
+
+51.33
+
+1.72
+
+26.2
+
+60.00
+
+2.29
+
+-3.34
+
+1.29
+
+Kolar
+
+28.0
+
+49.72
+
+1.78
+
+18.6
+
+42.22
+
+2.27
+
+0.00
+
+27.53
+
+Koppal
+
+19.7
+
+75.90
+
+3.85
+
+10.4
+
+33.16
+
+3.19
+
+116.29
+
+79.21
+
+Mandya
+
+36.5
+
+64.97
+
+1.78
+
+25.4
+
+32.94
+
+1.30
+
+0.00
+
+-26.97
+
+Mysore
+
+26.7
+
+57.22
+
+2.14
+
+16.7
+
+47.22
+
+2.83
+
+20.22
+
+58.99
+
+Raichur
+
+19.7
+
+55.24
+
+2.8
+
+13.4
+
+33.09
+
+2.47
+
+57.3
+
+38.76
+
+Shimoga
+
+21.8
+
+57.20
+
+2.62
+
+17.9
+
+39.67
+
+2.22
+
+47.19
+
+24.72
+
+Tumkur
+
+24.6
+
+53.33
+
+2.17
+
+19.2
+
+35.00
+
+1.82
+
+21.91
+
+2.25
+
+Udupi
+
+32.9
+
+69.00
+
+2.1
+
+21.6
+
+44.45
+
+2.06
+
+17.98
+
+15.73
+
+Uttara Kannada
+
+26.8
+
+70.32
+
+2.62
+
+21.1
+
+61.06
+
+2.89
+
+47.19
+
+62.36
+
+Karnataka
+
+22.1
+
+58.00
+
+2.62
+
+15.8
+
+38.00
+
+2.41
+
+47.19
+
+35.39
+
+1105.0
+
+1975
+
+1.78
+
+1105.0
+
+1975
+
+1.78
+
+CPIAL
+
+Notes:
+1. CPIAL: Consumer Price Index for Agricultural Labourers (Base: 1960-61).
+2. Annual averages refer to the agricultural year July-June.
+Source: Directorate of Economics and Statistics, Karnataka, Bangalore.
+
+81
+
+Income, Employment and Poverty
+
+TABLE 4.8
+
+Incidence of poverty: Karnataka vs. all-India
+State/
+Nation
+
+Rural
+No. of
+persons
+(lakh)
+
+Urban
+
+Proportion
+(%)
+
+No. of
+persons
+(lakh)
+
+Combined
+
+Proportion
+(%)
+
+No. of
+persons
+(lakh)
+
+Proportion
+(%)
+
+1973-74
+Karnataka
+
+128.40
+
+55.14
+
+42.27
+
+52.53
+
+170.67
+
+54.47
+
+All-India
+
+2612.90
+
+56.44
+
+600.46
+
+49.01
+
+3213.36
+
+54.88
+
+1977-78
+Karnataka
+
+120.39
+
+48.18
+
+47.78
+
+50.36
+
+168.17
+
+48.78
+
+All-India
+
+2642.47
+
+53.07
+
+646.48
+
+45.24
+
+3288.95
+
+51.32
+
+1983-84
+Karnataka
+
+100.50
+
+36.33
+
+49.31
+
+42.82
+
+149.81
+
+38.24
+
+All-India
+
+2519.57
+
+45.65
+
+709.40
+
+40.79
+
+3228.97
+
+44.48
+
+1987-88
+Karnataka
+
+96.81
+
+32.82
+
+61.80
+
+48.42
+
+158.61
+
+37.53
+
+All-India
+
+2318.79
+
+39.09
+
+751.69
+
+38.20
+
+3070.48
+
+38.86
+
+1993-94
+Karnataka
+
+95.99
+
+29.88
+
+60.46
+
+40.14
+
+156.45
+
+33.16
+
+All-India
+
+2440.31
+
+37.27
+
+763.37
+
+32.36
+
+3203.68
+
+35.97
+
+1999-2000
+Karnataka
+
+59.91
+
+17.38
+
+44.49
+
+25.25
+
+104.40
+
+20.04
+
+All-India
+
+1932.43
+
+27.09
+
+670.07
+
+23.62
+
+2602.50
+
+26.10
+
+Note: The estimates of poverty are obtained as per the methodology recommended by the Lakdawala Committee
+(Government of India (1993): Report of the Expert Group on Estimation of Proportion and Number of Poor,
+Perspective Planning Division, Planning Commission, New Delhi).
+Sources:
+1. Government of India (2001c).
+2. Government of Karnataka (1999).
+
+In Karnataka, about
+23 per cent
+of the rural child
+population lives in poor
+households while the
+incidence of urban child
+poverty is one and a half
+times that of the rural
+areas.
+
+82
+
+the ground reality as well as potential for human
+development of both, the individual and society.
+Children from poor households perform poorly
+relative to those from non-poor households with
+respect to food security, health and education.
+Therefore, estimates of the incidence of child
+poverty are useful in that they indicate the
+percentage of children living in misery with
+a bleak future. Hence, this parameter has
+policy implications in terms of policy design,
+regional targeting and budgetary support. Some
+estimates of the magnitude of child poverty
+in rural and urban Karnataka are presented in
+Table 4.11.
+Poverty is defined and estimated with reference to
+consumption which is measured at the household
+level. In other words, child poverty could be
+defined as the proportion of children living in
+consumption-poor households. Estimates for
+the year 1999-2000 show that the incidence of
+child poverty is about the same in both rural and
+urban sectors, across India as a whole. However,
+the incidence of child poverty in urban areas is
+twice that of the rural levels in Andhra Pradesh
+and Kerala. In Karnataka, about 23 per cent
+of the rural child population lives in poor
+households while the incidence of urban child
+poverty is one and a half times that of the rural
+areas (Table 4.11).
+
+Child labour
+Among the remaining social groups, ‘Other
+Backward Communities’ (OBCs) constitute
+39 per cent of the rural population, of whom
+16 per cent are below the poverty line, which
+is significantly lower than the proportion of poor
+among the SCs and STs. In urban Karnataka
+OBCs constitute about 31 per cent of the urban
+population and nearly 30 per cent of them are
+poor – a proportion almost double that of their
+rural counterparts.
+
+Child poverty
+A subset of the poor that calls for policy attention
+with regard to all the multiple parameters of
+deprivation is that of ‘children under 15’. Child
+poverty will have a lasting adverse impact on
+
+Child labour is a manifestation of household
+poverty, which is exploited by employers who
+do not wish to pay adult wages. Child labour
+is a violation of child as well as human rights.
+It stunts the development of the child during
+his/her crucial learning years and leads to
+irreparable physical and psychological damage,
+impairing for life, his/her opportunities for
+social mobility. Child labour also creates a
+vicious cycle of illiteracy and low income, while
+simultaneously depriving adults of employment
+and higher wages. The prevalence of child labour
+also deprives the nation of an educated, skilled
+and productive workforce which could form the
+basis of rapid economic growth. Thus, employing
+children robs them of their childhood and stunts
+the growth of the nation.
+
+Karnataka Human Development Report 2005
+
+The absolute number of child labour in India
+was estimated to be about 12.59 million,2 with
+a labour force participation rate of more than 5
+per cent according to the 2001 census, with
+Karnataka contributing 8.23 lakh as compared to
+9.76 lakh child labour in 1991. However, when
+compared to the neighbouring states of Andhra
+Pradesh, Tamil Nadu and Kerala, it is evident that
+Karnataka has the second highest child work
+participation rate of 13.9 per cent, next only to
+Andhra Pradesh, which has 17.8 per cent.
+If enrolment and dropout data for the past seven
+years, based on the Education Department’s
+statistics are considered (1996-97 to 2003-04), a
+total of 97.9 lakh children were enrolled in class I
+over the last seven years, and 18.39 lakh children
+dropped out, which constitutes 18.78 per cent
+of the total children enrolled. In addition, 45.54
+per cent of children failed to complete eight years
+of compulsory schooling. If we go by the definition
+that ‘any child out of school is a child labourer’,
+then 45 per cent of the children in Karnataka are
+child labourers for some period of their childhood
+and 18 per cent are child labourers at any given
+point of time. Though the percentage of dropouts
+may be decreasing, the absolute numbers of
+out-of-school children are still large.
+According to the National Family Health SurveyIndia (1998-99) for Karnataka, conducted by the
+International Institute for Population Sciences,
+cultural attitudes, such as lack of interest in
+education or child marriage, accounted for the
+main reason, for an average of 43.4 per cent of
+the responses, for not enrolling children or taking
+them out of school. Poverty related reasons, such
+as ‘the child is required to work’ or ‘schooling costs
+too much’, accounted for 36.18 per cent of the
+responses. School-related reasons, such as ‘the
+school is too far away’ or ‘school facilities are not
+adequate’ were cited by 10.65 per cent of the
+respondents.
+The distribution pattern of child labour across
+different sectors indicates that child work
+2
+
+Compiled by National Resource Centre on Child Labour, Noida,
+based on Census figures.
+
+TABLE 4.9
+
+District-wise per capita domestic product and incidence of poverty
+District
+
+1993-94
+
+1999-2000
+
+Per capita
+domestic
+product
+(Rs. per annum)
+
+Head count
+ratio (%)
+
+Per capita
+domestic
+product
+(Rs. per
+annum)
+
+Head
+count
+ratio (%)
+
+Bangalore Urban
+
+12391
+
+31.4
+
+25740
+
+9.9
+
+Bangalore Rural
+
+7786
+
+38.2
+
+12215
+
+5.2
+
+Belgaum
+
+8107
+
+29.9
+
+13377
+
+17.9
+
+Bellary
+
+6491
+
+44.5
+
+12200
+
+33.1
+
+Bidar
+
+5384
+
+56.1
+
+7861
+
+30.4
+
+Bijapur
+
+6563
+
+29.0
+
+10049
+
+32.1
+
+Chikmaglur
+
+10724
+
+15.6
+
+17609
+
+2.3
+
+Chitradurga
+
+6993
+
+39.0
+
+10989
+
+16.3
+
+Dakshina Kannada
+
+9223
+
+8.9
+
+20167
+
+7.4
+
+Dharwad
+
+6781
+
+49.8
+
+10397
+
+21.4
+
+Gulbarga
+
+6430
+
+45.5
+
+9516
+
+26.8
+
+Hassan
+
+6814
+
+14.4
+
+12346
+
+11.5
+
+Kodagu
+
+13718
+
+20.7
+
+24623
+
+4.9
+
+Kolar
+
+6065
+
+48.5
+
+10013
+
+41.9
+
+Mandya
+
+7134
+
+30.2
+
+11081
+
+16.6
+
+Mysore
+
+8036
+
+28.9
+
+14576
+
+15.5
+
+Raichur
+
+5688
+
+25.1
+
+8688
+
+45.6
+
+Shimoga
+
+8357
+
+25.6
+
+13970
+
+8.1
+
+Tumkur
+
+6342
+
+40.6
+
+9011
+
+18.5
+
+Uttara Kannada
+
+7389
+
+25.0
+
+12019
+
+6.7
+
+Karnataka
+
+7835
+
+33.2
+
+13621
+
+20.1
+
+Rank Correlation
+between per capita
+domestic product and
+head count ratio
+
+(-) 0.60
+
+(-) 0.77
+
+Note: Poverty estimates have been worked out for the year 1999-2000 for erstwhile 20 districts only for the purpose of
+comparison with 1993-94 estimates.
+Sources:
+1. Government of India (2001): Differences in Level of Consumption among Socio-Economic Groups 1999-2000,
+National Sample Survey Organisation, New Delhi.
+2. Government of India (2001): Poverty Estimates for 1999-2000, Press Information Bureau, New Delhi.
+
+participation as agricultural labourers accounts
+for nearly 50 per cent of total child labour
+in the state (1991 census), followed by 28.7
+per cent as cultivators and 8.0 per cent in the
+manufacturing, processing and repair sector. The
+83
+
+Income, Employment and Poverty
+
+TABLE 4.10
+
+Levels of living, inequality and poverty by social groups: Karnataka and all-India (1999-2000)
+Household
+type
+
+Share in
+total
+population
+(%)
+
+Average
+per capita
+consumption
+(Rs./month)
+
+Proportion of
+poor
+population
+(%)
+
+Relative
+inequality in
+consumption
+distribution
+(Lorenz ratio
+%)
+
+Share in
+total
+population
+(%)
+
+Average
+per capita
+consumption
+(Rs./month)
+
+Rural Karnataka
+
+Proportion
+of
+poor
+population
+(%)
+
+Relative
+inequality in
+consumption
+distribution
+(Lorenz ratio
+%)
+
+Rural all-India
+
+SCs
+
+19.65
+
+419.39
+
+26.87
+
+21.63
+
+27.17
+
+418.51
+
+35.82
+
+23.76
+
+STs
+
+7.83
+
+404.28
+
+24.78
+
+17.71
+
+6.70
+
+387.69
+
+45.12
+
+24.81
+
+OBCs
+
+39.15
+
+507.45
+
+16.15
+
+23.42
+
+6.77
+
+473.65
+
+27.46
+
+24.97
+
+Others
+
+33.31
+
+560.08
+
+12.11
+
+25.53
+
+59.04
+
+577.22
+
+15.82
+
+26.89
+
+All
+
+100.00
+
+499.60
+
+18.08
+
+24.48
+
+100.00
+
+485.88
+
+27.73
+
+26.58
+
+Urban Karnataka
+
+Urban all-India
+
+SCs
+
+10.79
+
+592.72
+
+47.50
+
+27.95
+
+14.35
+
+608.79
+
+38.12
+
+27.86
+
+STs
+
+4.50
+
+634.20
+
+50.93
+
+33.49
+
+3.40
+
+690.52
+
+35.29
+
+32.61
+
+OBCs
+
+30.65
+
+829.05
+
+29.09
+
+30.92
+
+30.38
+
+734.82
+
+29.69
+
+32.46
+
+Others
+
+54.02
+
+1044.02
+
+16.81
+
+31.56
+
+51.70
+
+1004.75
+
+16.15
+
+34.46
+
+All
+
+100.00
+
+910.78
+
+25.83
+
+32.75
+
+100.00
+
+854.70
+
+24.58
+
+34.68
+
+Notes:
+1. Estimates of different measures are based on data from Government of India (2001e): Differences in Level of Consumption among Socio-Economic Groups 1999-2000, National Sample
+Survey Organisation, New Delhi.
+2. Estimates of rural and urban poverty correspond to the Government of India Expert Group Poverty Lines per month at current prices for the year 1999-2000 as follows: Rs.309.59 (Rural
+Karnataka), Rs.327.56 (Rural all-India), Rs.511.44 (Urban Karnataka) and Rs.454.11 (Urban all-India) published in Government of India (2001d): Poverty Estimates for 1999-2000,
+Press Information Bureau, New Delhi.
+3. These estimates of poverty are made with reference to mean consumption, poverty line and parameters of the Lorenz curve.
+4. The estimates of aggregate poverty (all households) for rural/urban Karnataka differ from those presented in Table 4.9 because of differences in methodology.
+
+TABLE 4.11
+
+Percentage of child population living in poor households: 1999-2000
+State
+
+Rural
+
+Urban
+
+India
+
+33.65
+
+32.28
+
+Andhra Pradesh
+
+15.05
+
+34.40
+
+Karnataka
+
+23.40
+
+33.95
+
+Kerala
+
+12.40
+
+24.78
+
+Tamil Nadu
+
+28.06
+
+29.52
+
+Note: The estimates of poverty are obtained with reference to the poverty lines for 1999-2000 obtained as per the
+methodology recommended by the Lakdawala Committee [Government of India (1993): Report of the Expert Group
+on Estimation of Proportion and Number of Poor, Perspective Planning Division, Planning Commission, New Delhi].
+The poverty lines are from Government of India (2001): Poverty Estimates for 1999-2000, Press Information Bureau,
+New Delhi.
+Sources:
+1. Government of India (1993): Report of the Expert Group on Estimation of Proportion and Number of Poor, Perspective
+Planning Division, Planning Commission, New Delhi.
+2. Government of India (2001): Poverty Estimates for 1999-2000, Press Information Bureau, New Delhi.
+
+84
+
+sectoral distribution pattern of child labour shows
+that child workers are employed primarily in
+the unorganised farm sector and their collective
+share as cultivators and agricultural labourers is
+more than three-fourth of the total child labour
+population (Table 4.13).
+Thus, there is an urgent need for intensive and
+concerted efforts to not only target working
+children and motivate them to attend school
+and complete at least eight years of elementary
+education, but also provide institutional
+arrangements and support to facilitate this
+process.
+In the current economy, there are emerging
+demands for child labour from new sectors. For
+instance, while child labour in the silk-twisting
+sector has been decreasing, it has been increasing
+
+Karnataka Human Development Report 2005
+
+in the hybrid cotton seed producing sector, as a
+result of a shift from subsistence agriculture to
+commercial crop production. The service industry
+and floriculture are other sectors where child
+labour is increasing steadily under the impact of
+global markets. Domestic labour is another area
+where there is much abuse and exploitation.
+
+State interventions
+Despite several interventions, the impact of
+government programmes on the prevalence of
+child labour has not been satisfactory for various
+reasons. The focus, so far, has been on a welfare
+approach and on persuasion, exhortation and
+incentives, rather than a rights-based approach.
+Further, a strategy to address the causes at
+source has not received the same attention as
+a curative approach. Policies concentrate on
+rehabilitation through universal enrolment and
+retention. This has made rehabilitation an endless
+exercise since the school system has continued to
+leak fresh dropouts, even as earlier dropouts are
+rehabilitated. Dropouts occur as a result of both
+pull-out and push-out factors. The supply side
+(pull-out) causes, namely (i) poverty; (ii) poor
+enforcement of the law on compulsory education;
+and (iii) illiteracy and ignorance, have not been
+adequately addressed. The Education Department
+has no mechanism for addressing issues of poverty
+and child labour, which are the main reasons cited
+by parents and children for never enrolling or
+dropping out of school. The Karnataka Education
+Act has no mechanisms or procedures to assist
+parents who may be disabled, ill or otherwise
+dependent on a child’s income. The Education
+Act also offers no solution to the large numbers
+of children who migrate with their parents for
+employment. There are several new initiatives to
+bring working children back to school and they
+have been successful, but sustained environmentbuilding activities to dispel the illiteracy and
+ignorance that justifies child labour are also
+required. Entrenched attitudes, which justify poor
+children working for a living, are still common,
+even among the elite. The attitude of rationalising
+child labour as ‘inevitable’ and a ‘necessary evil’, is
+yet to disappear. A large percentage of employers
+continue to see their employment of children as a
+‘favour’ they are doing to the children and their
+
+TABLE 4.12
+
+Enrolment in class I and dropouts: 1996-97 to 2002-03
+(Lakh)
+Enrolment
+in class I
+1996-2003
+(A)
+
+Enrolment in
+2003-04 in
+classes II to VIII
+(B)
+
+Dropout in
+elementary
+cycle (A-B)
+
+1996-97
+
+14.24
+
+7.77 (VIII)
+
+6.47
+
+45.44
+
+1 to 8
+
+1997-98
+
+13.97
+
+9.92 (VII)
+
+4.05
+
+28.99
+
+1 to 7
+
+1998-99
+
+13.70
+
+11.27 (VI)
+
+2.43
+
+17.73
+
+1 to 6
+
+1999-2000
+
+14.24
+
+13.01 (V)
+
+1.23
+
+8.64
+
+1 to 5
+
+2000-01
+
+14.01
+
+12.47 (IV)
+
+1.54
+
+10.99
+
+1 to 4
+
+2001-02
+
+14.01
+
+12.55 (III)
+
+1.46
+
+10.39
+
+1 to 3
+
+2002-03
+
+13.73
+
+12.52 (II)
+
+1.21
+
+8.81
+
+1 to 2
+
+Total
+
+97.9
+
+79.51
+
+18.39
+
+18.78
+
+Year
+
+Percentage
+Dropouts
+of
+over classes
+dropouts
+A to B
+
+Source: Education Department, Director, Primary Education, Karnataka.
+
+TABLE 4.13
+
+Classification of child labourers according to
+economic activity: Karnataka
+Activity
+
+Total workers (1981)
+
+Total workers (1991)
+
+Male
+
+Female
+
+Persons
+
+Male
+
+Female
+
+Persons
+
+Cultivators
+
+220792
+
+111424
+
+332216
+
+155133
+
+125355
+
+280488
+
+Agricultural labourers
+
+248970
+
+275286
+
+524256
+
+216842
+
+277490
+
+494332
+
+Livestock, forestry
+
+75626
+
+27230
+
+102856
+
+40777
+
+17802
+
+58579
+
+Mining and quarrying
+
+2120
+
+1600
+
+3720
+
+2833
+
+1724
+
+4557
+
+Manufacturing,
+processing, repairs, etc.
+
+52412
+
+51749
+
+104161
+
+39861
+
+37313
+
+77174
+
+Construction
+
+6969
+
+3862
+
+10831
+
+8660
+
+2225
+
+10885
+
+Trade and commerce
+
+22636
+
+3338
+
+25977
+
+22383
+
+2660
+
+25043
+
+Transport
+
+3553
+
+760
+
+4313
+
+2931
+
+327
+
+3258
+
+Other services
+
+12278
+
+10922
+
+23200
+
+9221
+
+12710
+
+21931
+
+645359
+
+486171
+
+1131530 498641
+
+477606
+
+976247
+
+Total
+
+Source: Registrar General of India, Census 1991.
+
+families to help them survive. The belief that it
+is alright for a poor child to earn full time and
+learn for a few hours is held by far too many
+people. Therefore, while parents may agree that
+education is desirable, they are often unable or
+unwilling to send their children to school. The
+idea that education should lead to a job in the
+organised sector, preferably government, is also
+held by many parents. Gender bias that says that
+
+The attitude of
+rationalising child labour
+as ‘inevitable’ and a
+‘necessary evil’, is yet to
+disappear.
+
+85
+
+Income, Employment and Poverty
+
+The Tenth Plan seeks to
+bring down poverty in
+Karnataka to 7.85
+per cent by the year 2007.
+
+girl children will end up as housewives and need
+not be educated means that girls are pulled out
+of school to work. Existing child labour laws do
+not cover the so-called non-hazardous sectors,
+such as agriculture, domestic and home-based
+work and the informal sector, where more than
+90 per cent of children work3. There is, thus, a
+contradiction between the law on compulsory
+education and the child labour law. There are
+also contradictions between these two laws on
+the magnitude of punishments for employers of
+children. There are currently no inspectors under
+the Bonded Labour System (Abolition) Act of
+1976, and hence, hardly any identifications of,
+and punishment for, practising child bonded
+labour. The Children (Pledging of Labour) Act of
+1933 is also rarely invoked for freeing pledged
+children even though pledging and bondage of
+children are very common practices. The Action
+Plan on Child Labour has remained a broad policy
+document and a ‘statement of intent’. It needs to
+TABLE 4.14
+
+Targets for poverty reduction: Tenth
+Five Year Plan 2007
+State
+
+Percentage of
+poor
+
+No. of poor
+(lakh)
+
+India
+
+19.34
+
+2200.94
+
+Andhra Pradesh
+
+8.49
+
+68.72
+
+Karnataka
+
+7.85
+
+45.00
+
+Kerala
+
+3.61
+
+12.04
+
+Tamil Nadu
+
+6.61
+
+44.07
+
+Source: Government of India (2002): Tenth Five Year Plan
+(2002-07), State Plans: Trends, Concerns and Strategies,
+Volume III (Draft), Planning Commission, New Delhi,
+p. 133.
+
+be disaggregated into action points with concrete
+physical and financial targets on a priority basis.
+
+Targets for poverty reduction:
+Tenth Five Year Plan
+Karnataka is committed to the Millennium
+Development Goals as well as theTenth Plan goals.
+One of these goals is to reduce income poverty by
+50 per cent between 1990 and 2015. The Tenth
+Five Year Plan has been formulated keeping this
+goal in mind. The Tenth Plan seeks to bring down
+poverty in Karnataka to 7.85 per cent by the year
+2007 (Table 4.14).
+
+Employment
+The employment scenario can be examined
+from different angles, depending upon the policy
+perspective and emphasis. For instance, the size
+distribution of the workforce across age groups
+throws light on the size of child labour force
+and its policy imperatives. Data on the mode of
+employment highlights policy implications for
+social security, particularly for the vulnerable,
+casual labour. A profile of the sectoral distribution
+of the workforce is critical for an assessment of
+the relative importance of various employment
+opportunities.
+
+Work participation rate
+With the growth in population, there has been
+an increase in the work participation rate in the
+economy. The work participation rate increased
+from 40.2 per cent in 1981 to 42 per cent in
+1991 and 44.6 per cent in 2001. As a result, the
+workforce too has increased from 14.95 million
+in 1981 to 18.89 million in 1991 (an increase of
+
+TABLE 4.15
+
+Work participation rate: 1981, 1991 and 2001
+Year
+
+Total population
+(lakh)
+
+Workforce (lakh)
+(Main + Marginal)
+
+Work participation rate
+(per cent)
+
+Male
+
+Female
+
+Persons
+
+Male
+
+Female
+
+Persons
+
+Male
+
+Female
+
+Persons
+
+1981
+
+189.23
+
+182.13
+
+371.36
+
+103.31
+
+46.13
+
+149.44
+
+54.06
+
+25.03
+
+40.02
+
+1991
+
+229.52
+
+220.25
+
+449.77
+
+124.14
+
+64.73
+
+188.87
+
+54.01
+
+29.30
+
+42.00
+
+2001
+
+268.56
+
+258.78
+
+527.34
+
+152.73
+
+82.48
+
+235.21
+
+56.09
+
+31.09
+
+44.60
+
+Source: Government of Karnataka (2003): Economic Survey 2002-03; p.275
+3
+
+86
+
+PROBE Study 2002, Ramesh Kanbargi and National Family Health Survey 1and 2.
+
+Karnataka Human Development Report 2005
+
+The increase in the total
+work participation rate
+occurred largely because
+of the increase in female
+work participation.
+
+However, the composition of women workers
+across different economic activities reveals more
+or less similar trends for both SCs, STs and all
+groups. Out of total cultivators, the proportion
+of women workers is about 30 per cent. SC
+and ST women as a proportion of SC and ST
+cultivators exhibit the same pattern. About 55
+to 60 per cent of total agricultural labourers are
+women, both for all groups and SCs/STs, and
+among those engaged in household industries,
+about 60 per cent are women. Women’s work
+participation is high in activities relating to
+agro-based manual work and household
+industrial activities requiring low skills. The
+proportion of SCs and STs in the total ‘other
+workers’, which includes high-end jobs of the
+tertiary sector and manufacturing sector, is 14.0
+and 4.0 per cent respectively. The proportion of
+women as a proportion of the total number of
+SC and ST workers is about 28 per cent, which
+is significantly higher than women workers
+as a proportion of the total ‘other workers’
+(22 per cent). SC and ST women’s participation
+as a proportion of total SC and ST workers in
+the ‘other workers category’ is also significantly
+higher than the total women workers under this
+category.
+
+2.64 per cent per annum) and to 23.52 million
+in 2001 (2.45 per cent per annum) (Table 4.15).
+The increase in the total work participation rate
+occurred largely because of the increase in female
+work participation.
+
+Work participation rates by social
+groups
+The 2001 census provides data on SC and ST
+workers by broad category of activities. According
+to available data, 16.85 per cent of the total
+workers (main + marginal) are SCs and 7.27
+per cent are STs. A category-wise comparison
+shows that out of total cultivators, SCs constitute
+nearly 12 per cent and STs 7.6 per cent. The
+proportion of SC agricultural labourers is about 28
+per cent and that of STs, about 12 per cent (Table
+4.16). This indicates that SC and ST workers are
+found predominantly in the agrarian sector where
+they cluster in low-end jobs.
+Women’s work participation rate
+A comparison of work participation by women
+(both general and among SCs and STs) shows
+that participation among SC and ST women,
+at about 41 per cent, is higher than women’s
+work participation for all groups (35 per cent).
+
+TABLE 4.16
+
+Category of workers by social groups: 2001
+Category of workers
+
+Number of workers
+SCs
+
+1
+Cultivators
+
+Agricultural labourers
+
+Workers in household industries
+
+Other workers
+
+Total
+
+STs
+
+Total
+
+SCs as
+% to Total
+
+STs as
+% to
+Total
+
+Total
+
+Women
+
+Total
+
+Women
+
+Total
+
+Women
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+814788
+
+242220
+
+526827
+
+152025
+
+6883856
+
+2051016
+
+11.84
+
+7.65
+
+27.90
+
+11.86
+
+10.47
+
+4.70
+
+13.88
+
+4.22
+
+16.85
+
+7.27
+
+(29.72)
+1737148
+
+947259
+
+(28.85)
+738751
+
+(54.53)
+100447
+
+57831
+
+373684
+
+45146
+
+1620994
+(40.86)
+
+27003
+
+399296
+
+110350
+
+959665
+
+712724
+(41.67)
+
+554574
+(58.80)
+
+9464328
+
+(27.64)
+1710020
+
+3606015
+(57.90)
+
+(59.80)
+
+(28.43)
+3966445
+
+6226942
+
+(57.30)
+
+(57.57)
+1314062
+
+423346
+
+(29.80)
+
+2087833
+(22.00)
+
+23534791
+
+8299438
+(35.26)
+
+Note: * Figures in parenthesis indicate percentage of respective totals.
+Source: Registrar General of India, Census of India 2001.
+
+87
+
+Income, Employment and Poverty
+
+TABLE 4.17
+
+Distribution of workforce by employment status (usual status adjusted)
+Year
+
+Rural
+
+Urban
+
+Total
+
+SE
+
+RS
+
+CL
+
+Total
+
+SE
+
+RS
+
+CL
+
+Total
+
+SE
+
+RS
+
+CL
+
+Total
+
+1983
+
+55.93
+
+4.65
+
+38.82
+
+100.00
+
+35.36
+
+36.80
+
+27.65
+
+100.00
+
+51.16
+
+12.20
+
+36.18
+
+100.00
+
+1993-94
+
+55.90
+
+4.80
+
+39.30
+
+100.00
+
+41.30
+
+36.90
+
+21.80
+
+100.00
+
+52.40
+
+12.78
+
+34.82
+
+100.00
+
+1999-2000
+
+50.20
+
+5.30
+
+44.50
+
+100.00
+
+38.80
+
+39.60
+
+21.60
+
+100.00
+
+47.03
+
+14.83
+
+38.14
+
+100.00
+
+Note: SE: Self employed, RS: Regular salaried, CL: Casual labour.
+Sources:
+1. National Sample Survey findings cited in Chadha, G.K. and P.P. Sahu (2002): ‘Post-reform setbacks in Rural Employment: Issues that need further Scrutiny’.
+2. Economic and Political Weekly, Vol. XXXVII, No.21.
+
+TABLE 4.18
+
+Composition of employment
+
+Main and marginal workers 1991 and 2001:
+Southern states and all-India
+State
+
+Karnataka
+
+Year
+
+Main workers
+
+Marginal
+workers
+
+Total workers
+
+1991
+
+17292117
+
+1594681
+
+18886798
+
+(91.55)
+
+(8.45)
+
+(100.00)
+
+19364759
+
+4170032
+
+23534791
+
+(82.30)
+
+(17.70)
+
+(100.00)
+
+28465427
+
+1529684
+
+29995111
+
+(94.90)
+
+(5.10)
+
+(100.00)
+
+29040873
+
+5852986
+
+34893859
+
+(83.23)
+
+(16.77)
+
+(100.00)
+
+22790450
+
+1396474
+
+24186924
+
+(94.23)
+
+(5.77)
+
+(100.00)
+
+23757783
+
+4120499
+
+27878282
+
+(85.22)
+
+(14.78)
+
+(100.00)
+
+8293078
+
+843857
+
+9136935
+
+(90.76)
+
+(9.24)
+
+(100.00)
+
+8236973
+
+2046914
+
+10283887
+
+(80.10)
+
+(19.90)
+
+(100.00)
+
+285951666
+
+28511310
+
+314462976
+
+(90.93)
+
+(9.07)
+
+(100.00)
+
+313004983
+
+89229741
+
+402234724
+
+(77.82)
+
+(22.18)
+
+(100.00)
+
+2001
+
+1991
+Andhra Pradesh
+
+2001
+
+1991
+Tamil Nadu
+
+2001
+
+1991
+Kerala
+
+2001
+
+1991
+All-India
+
+2001
+
+Note: Figures in bracket indicates percentage to total.
+Source: Registrar General of India, Census 1991 and 2001.
+
+88
+
+Given the trend of the movement of the workforce
+towards the non-agricultural sector and the
+monetisation of the economy, it is important
+to examine the forms of employment and the
+changes therein over time. Self-employment in
+rural Karnataka declined from 55.93 per cent in
+1983 to 50.20 per cent in 1999-2000. Regular
+salaried jobs have increased in both rural and
+urban Karnataka. The proportion of the rural
+workforce employed as casual labour was not only
+high at 38.8 per cent in 1983, but also increased
+further, to 44.50 per cent by 1999-2000
+(Table 4.17).
+The proportion of marginal labour in the total
+workforce is increasing steadily. The share of
+marginal workers as a proportion of the total
+workers in 1991 was 8.4 per cent, which
+increased to 17.7 per cent in 2001. A decline
+can be seen in the proportion of main workers
+and a significant increase in the proportion of
+marginal workers in all southern states and at
+the all-India level (Table 4.18).
+Over the years the average size of operational
+holdings has been steadily declining, which
+indirectly shows that net addition to the number of
+marginal workers is increasing, particularly in the
+farm sector. The quinquennial agricultural census
+carried out by the Department of Economics
+and Statistics shows that the average size of
+operational holdings in Karnataka in 1970-71
+was 3.20 ha., which has declined to 2.13 ha in
+1991 and 1.74 ha in 2000-01. This casualisation
+
+Karnataka Human Development Report 2005
+
+of labour reveals the increasing inability of the
+market to provide full-time employment.
+
+Organised and unorganised sector
+employment
+Organised sector employment, comprising public
+and private sector employment, has registered
+a negative rate of growth. Total organised sector
+employment in Karnataka was 18.80 lakh in the
+year 2000-01 and declined to 18.18 lakh by
+the end of November 2004. There is no readily
+available data on unorganised sector employment.
+The 55th round NSS data for 1999-2000 provides
+estimated employment for different sectors.
+If one takes out the corresponding share of
+organised sector employment from the aggregate
+employment, one can arrive at an estimate of the
+proportion of unorganised sector employment
+in the state. Unorganised sector employment
+contributes to nearly 92 per cent of aggregate
+employment. The share of organised sector
+employment is not only small, but also declining,
+resulting in greater dependency on unorganised
+sector employment. This unhealthy trend holds
+true, not only for Karnataka, but for the all-India
+level as well.
+
+Sectoral growth of employment
+In the context of the changes accompanying
+the economic reform process, it is important
+to examine the pattern of employment growth
+across sectors in Karnataka. Two periods of time
+will be considered, viz. (i) 1983 to 1993-94 and
+(ii) 1993-94 to 1999-2000. In rural Karnataka,
+the growth rate of employment in the agricultural
+sector as well as trade decelerated during the
+second period, and actually became negative for
+mining and quarrying, manufacturing, utilities,
+and community, social and personal services. The
+only sectors wherein the growth rate accelerated
+were transport, storage, communication, finance,
+insurance and real estate. In sum, the rural
+sector as a whole experienced little growth in
+employment during the second period.
+Urban Karnataka on the other hand, seems to
+have sustained its employment growth during
+the second period. The growth rates for the two
+periods were 2.95 and 2.54 per cent respectively.
+
+BOX 4.2
+
+Changes in employment patterns over time: Karnataka versus
+all-India
+
+
+
+
+
+
+A decline in the extent of chronic unemployment (male and female; usual principal status)
+in both rural and urban Karnataka; this is confirmed further by estimates adjusted for
+subsidiary status employment. The experience was different at the all-India level: the
+estimates (adjusted as well as unadjusted) based on the usual status criterion show some
+increase in unemployment for male and female in rural all-India, as well as for male in
+urban all-India, as against a decrease in female unemployment in urban all-India.
+Intermittent unemployment, as indicated by estimates of current weekly status, show a
+marginal increase for both male and female in rural Karnataka and a decline for both in
+urban Karnataka. At the all-India level, intermittent unemployment increased for both
+sexes in the rural sector, increased for males in the urban sector and decreased for females
+in the urban sector.
+Unemployment by current daily status decreased for rural males, registered a marginal
+increase for rural females and declined for both in the urban areas of Karnataka. However,
+unemployment by this criterion registered a perceptible increase for both males and
+females in rural all-India and for males in urban all-India. At the all-India level, the urban
+sector experienced a decline the in female unemployment rate.
+
+Thus, in sum, Karnataka seems to have done relatively better than the rest of the country in
+dealing with the unemployment situation during the 1990s.
+
+Employment declined in agriculture, mining and
+quarrying, utilities and community, social and
+personal services, but registered an increase in
+manufacturing, construction, trade, transport,
+storage, communication, finance, insurance, real
+estate and non-agricultural activities.
+
+Sectoral composition of employment
+Agriculture continues to be the major source of
+employment in the rural sector. The proportion of
+rural workers employed in agriculture (including
+animal husbandry, forestry and logging and
+fishing) declined from 84.40 per cent in 1983 to
+81.90 per cent in 1993-94 and remained at about
+the same level thereafter. However, with the urban
+sector’s workforce dependence on agriculture
+declining, a similar trend is evident in the state
+overall. The manufacturing sector, as a source of
+employment, has declined in importance in rural
+Karnataka but has virtually remained static in
+urban Karnataka. Consistent with this profile, the
+proportion of Karnataka’s workforce engaged in
+non-agriculture, especially in the urban sector,
+has increased during the same period. For the
+state as a whole, the proportion increased from
+89
+
+Income, Employment and Poverty
+
+30.40 per cent in 1983 to 37.50 per cent in
+1999-2000 (Table 4.19).
+
+Regional dimensions of employment
+Employment (main + marginal workers) has
+grown at a decennial growth rate of 24.6 per cent
+TABLE 4.19
+
+Sectoral distribution of usual (principal + subsidiary) status of
+workers: 1983, 1993-94 and 1999-2000
+(Per cent)
+Year
+
+Rural
+
+Urban
+
+Total (Rural + Urban)
+
+A
+
+M
+
+NA
+
+A
+
+M
+
+NA
+
+A
+
+M
+
+NA
+
+1983
+
+84.40
+
+6.00
+
+15.60
+
+19.90
+
+28.90
+
+80.10
+
+69.60
+
+11.30
+
+30.40
+
+1993-94
+
+81.90
+
+6.70
+
+18.10
+
+16.60
+
+26.90
+
+83.40
+
+65.70
+
+11.70
+
+34.30
+
+1999-2000
+
+82.10
+
+5.90
+
+17.90
+
+10.90
+
+27.10
+
+81.10
+
+62.50
+
+11.80
+
+37.50
+
+Notes:
+1. A: Agriculture, M: Manufacturing, NA: Non-agriculture.
+2. Manufacturing is a sub-set of Non-agriculture
+Sources:
+1. National Sample Survey findings cited in Chadha, G.K. and P.P. Sahu (2002): ‘Post-Reform Setbacks in Rural
+employment: Issues that need further Scrutiny’.
+2. Economic and Political Weekly, Vol. XXXVII, No.21, pp.1998-2026.
+
+TABLE 4.20
+
+Unemployment rates: Karnataka and all-India
+Status
+
+Unemployment rates
+1993-94
+M
+
+1999-2000
+
+F
+
+P
+
+M
+
+F
+
+P
+
+1993-94
+M
+
+Rural Karnataka
+
+F
+
+1999-2000
+P
+
+M
+
+F
+
+P
+
+Urban Karnataka
+
+Usual status
+
+1.3
+
+0.6
+
+1.1
+
+1.0
+
+0.3
+
+0.8
+
+3.4
+
+7.5
+
+4.3
+
+3.0
+
+4.7
+
+3.4
+
+Usual status
+adjusted
+
+0.9
+
+0.4
+
+0.7
+
+1.0
+
+0.3
+
+0.7
+
+2.9
+
+5.6
+
+3.6
+
+3.0
+
+4.4
+
+3.3
+
+Current weekly
+
+1.8
+
+1.2
+
+1.6
+
+2.0
+
+1.5
+
+1.8
+
+4.0
+
+6.9
+
+4.7
+
+3.8
+
+4.7
+
+4.0
+
+Current daily
+
+4.7
+
+3.9
+
+4.4
+
+4.4
+
+4.0
+
+4.3
+
+5.6
+
+8.9
+
+6.3
+
+5.3
+
+5.9
+
+5.4
+
+Rural all-India
+
+Urban all-India
+
+This broadly reveals that growth in employment
+is mainly Bangalore-centric. Bangalore is
+supporting a large number of Information
+Technology based industries, which generate
+high-end, skill-based employment. There
+has been a significant increase in marginal
+employment in Bangalore as well, mainly due
+to construction activities. There is a large influx
+of migrant unskilled labourers to Bangalore
+resulting in the high growth of marginal workers.
+Much of this migration has been triggered by low
+growth and recurrent drought in the state. This
+phenomenon of employment growth centering
+only around Bangalore imposes great stress on
+its infrastructure. In recent times the state has
+initiated policies to develop growth centres in
+other cities as well.
+
+Unemployment
+
+Usual status
+
+2.0
+
+1.4
+
+1.8
+
+2.1
+
+1.5
+
+1.8
+
+4.5
+
+8.2
+
+5.2
+
+4.8
+
+7.1
+
+5.2
+
+Usual status
+adjusted
+
+1.4
+
+0.8
+
+1.2
+
+1.7
+
+1.0
+
+1.5
+
+4.0
+
+6.2
+
+5.2
+
+4.5
+
+5.7
+
+4.7
+
+Current weekly
+
+3.0
+
+3.0
+
+3.0
+
+3.9
+
+3.7
+
+3.8
+
+5.2
+
+8.4
+
+5.8
+
+5.6
+
+7.3
+
+5.9
+
+Current daily
+
+5.6
+
+5.6
+
+5.6
+
+7.2
+
+7.0
+
+7.1
+
+6.7 10.5
+
+7.4
+
+7.3
+
+9.4
+
+7.7
+
+Note: M-Male, F-Female and P-Persons.
+Sources:
+1. Government of India (1996a): ‘A Note on Employment and Unemployment Situation in India. Fifth Quinquennial
+Survey, NSS 50th Round (July 1993 – June 1994)’ Sarvekshana, Vol. XX, No.1, pp. 1-146.
+2. Government of India (2001f): Employment and Unemployment Situation in India 1999-2000 (Part-I) NSS 55th Round
+(July 1999-June 2000), National Sample Survey Organisation, Ministry of Statistics and Programme Implementation,
+New Delhi, pp.140-142.
+
+90
+
+between 1991 and 2001, largely contributed
+to by the growth in the number of marginal
+workers. The number of main workers increased
+at a rate of 12 per cent and marginal workers
+by 161.5 per cent during this period. The
+growth of employment is highest in Bangalore
+Urban district (54.8 per cent), followed by
+Dakshina Kannada (27.8 per cent), Dharwad
+(27.6 per cent), Koppal (24.9 per cent) and
+Mysore and Raichur with about 26 per cent
+each. These are the districts where employment
+growth is higher than the state average. Across
+districts there is significant growth in Bangalore
+Urban in terms of main and marginal workers,
+whereas the districts of Bidar, Bijapur, Gulbarga
+and Raichur have a negative rate of growth for
+main workers. All these districts are located in
+north Karnataka.
+
+The extent of unemployment will be examined
+from different perspectives, viz. (i) usual status;
+(ii) current weekly status; and (iii) current daily
+status. Estimates of unemployment in Karnataka
+corresponding to these three perspectives
+are presented separately for male and
+female, by sector, for the years 1993-94 and
+1999-2000 in Table 4.20. The estimate by the
+usual status criterion provides a measure of
+chronic unemployment; this estimate adjusted
+for (excluding) workers on subsidiary status is
+
+Karnataka Human Development Report 2005
+
+called ‘Usual Status Adjusted’. Estimates by
+the current weekly status measures current
+unemployment (chronic as well as temporary);
+and current daily status encompasses chronic
+unemployment, temporary unemployment and
+under-employment. In other words, among
+these measures, the current daily status
+estimate would be the most comprehensive
+measure. It is an estimate of the average level
+of unemployment on a day during the survey
+year. It is a comprehensive estimate since it is
+based on the unemployed days of the chronically
+unemployed, the unemployment days of those
+who are usually employed but unemployed
+intermittently and the unemployed days of those
+who are employed as per the current weekly
+status approach. Thus, it takes into account the
+unemployed days of even employed persons,
+and hence, seasonal unemployment also. The
+estimates for the rural and urban areas of
+Karnataka and all-India show diverse patterns
+of change (Table 4.20).
+
+TABLE 4.21
+
+No. of unemployed person days per thousand person days
+(current daily status): Karnataka vs. all-India
+Year
+Male
+
+Female
+
+Urban
+Persons
+
+Male
+
+Female
+
+Persons
+
+Karnataka
+1993-94
+
+27
+
+13
+
+20
+
+31
+
+14
+
+22
+
+1999-2000
+
+25
+
+12
+
+19
+
+29
+
+10
+
+20
+
+All-India
+1993-94
+
+30
+
+13
+
+22
+
+36
+
+14
+
+26
+
+1999-2000
+
+37
+
+15
+
+26
+
+38
+
+12
+
+26
+
+Sources:
+1. Government of India (1996): ‘Results on Employment and Unemployment Situation in India, Fifth Quinquennial
+Survey, NSS 50th Round (July 1993- June 1994)’, Sarvekshana, Vol. XX, No. 1, p. 113.
+2. Government of India (2000): Employment and Unemployment in India 1999-2000 Key Results. NSS 55th Round
+(July 1999- June 2000), National Sample Survey Organisation, New Delhi, p. 35.
+3. Government of Karnataka (2001): Economic Survey 2000-01, Planning and Statistics Department, Bangalore;
+p.195.
+
+TABLE 4.22
+
+Progress of SGRY (Stream I): 1998-99 to 2002-03
+Year
+
+The Table 4.21 indicates that there was a decline
+in the extent of unemployment (male and female)
+in both rural and urban Karnataka as against
+an increase (male and female) in rural all-India,
+(male) in urban all-India and a decrease only
+in female unemployment in urban all-India. The
+conclusion is that Karnataka seems to have fared
+better than India as a whole in dealing with the
+unemployment situation.
+
+Rural
+
+Financial
+(Rs. crore)
+
+Physical
+(Lakh man days)
+Target
+
+Achievement
+
+Food grains
+(’000 MT)
+
+Target
+
+Achievement
+
+Released
+
+Distributed
+
+1998-99
+
+154.77
+
+134.83
+
+-
+
+292.42
+
+-
+
+-
+
+1999-2000
+
+103.59
+
+100.91
+
+195
+
+186.96
+
+-
+
+-
+
+2000-01
+
+66.32
+
+72.83
+
+113
+
+103.57
+
+-
+
+-
+
+2001-02
+
+100.21
+
+101.55
+
+130
+
+142.40
+
+92.13
+
+58.84
+
+2002-03
+
+95.16
+
+128.68
+
+123.82
+
+245.33
+
+108.07
+
+126.48
+
+Source: Government of Karnataka (2003): Annual Report 2002-03, Rural Development and Panchayat Raj department,
+Bangalore, p. 5.
+
+Policy responses
+The Government of Karnataka has explored
+many policy options to reduce the deprivation
+levels of the population. The policies include
+programmes to promote growth and
+redistribution. Broadly, the redistributive
+strategy seeks to reduce poverty by means of
+the following interventions:
+
+Promote asset endowment of the poor by
+programmes such as land reforms and
+Swarnajayanti Gram Swarozgar Yojana
+(SGSY);
+
+Offer direct employment opportunities
+through programmes like the Sampoorna
+Grameen Rozgar Yojana (SGRY) and
+Stree Shakti; and
+
+TABLE 4.23
+
+Progress of SGRY (Stream II): 1998-99 to 2002-03
+Year
+
+Financial
+(Rs. crore)
+
+Physical
+(lakh man days)
+
+Food grains
+(’000 MT)
+
+Target
+
+Achievement
+
+Target
+
+Achievement
+
+Released
+
+Distributed
+
+1998-99
+
+110.48
+
+112.89
+
+188.77
+
+225.15
+
+-
+
+-
+
+1999-2000
+
+93.83
+
+101.92
+
+188.82
+
+175.48
+
+-
+
+-
+
+2000-01
+
+87.87
+
+94.22
+
+113.98
+
+128.94
+
+-
+
+-
+
+2001-02
+
+99.90
+
+95.12
+
+129.58
+
+140.79
+
+89.50
+
+60.74
+
+2002-03
+
+92.81
+
+114.26
+
+120.40
+
+276.13
+
+164.19
+
+142.27
+
+Source: Government of Karnataka (2003): Annual Report 2002-03, Rural Development and Panchayat Department,
+Bangalore, p. 6.
+
+91
+
+Income, Employment and Poverty
+
+TABLE 4.24
+
+Wage employment generated under
+various government programmes
+(Crore)
+Year
+
+Man days generated
+
+related activities; (ii) coverage and quality
+of infrastructure; (iii) quality of services and
+hence, human resources. The government has
+also been implementing schemes to develop
+rural infrastructure encompassing rural
+communications, housing, water supply and
+sanitation, watershed development and minor
+irrigation.
+
+1999-2000
+
+14.82
+
+2000-01
+
+16.49
+
+2001-02
+
+14.82
+
+2002-03
+
+14.71
+
+Employment generation
+
+2003-04
+
+18.88
+
+2004-05 (up to Dec.04)
+
+10.00
+
+Programmes for employment generation are
+of two types: (i) the set of schemes falling
+under Sampoorna Grameen Rozgar Yojana
+(SGRY) to provide wage employment; and (ii)
+those promoting self-employment of the rural
+poor falling under three broad schemes called
+Swarnajayanti Gram Swarozgar Yojana (SGSY),
+Stree Shakti and Swavalambana. Some salient
+features and achievements of these programmes
+in recent years are as follows:
+
+Source: Planning Department, Government of Karnataka.
+
+
+
+Promote food security through the public
+distribution system and subsidised food
+grains.
+
+These measures have achieved some success
+as reflected in the reduction in the estimates
+of poverty over time. However, the reduction in
+poverty has not been uniform across districts.
+The percentage point reduction in the incidence of
+poverty between 1993-94 and 1999-2000 was
+much less in northern Karnataka than in the south
+and the average for the state (Suryanarayana and
+Zaidi, 2002).
+One major policy emphasis in recent years has
+been on growth in the rural areas by measures
+to promote (i) productivity in agriculture and
+
+Various government programmes, including
+direct wage employment programmes, such
+as Swarnajayanti Gram Swarozgar Yojana,
+Sampoorna Grameen Rozgar Yojana, departmental
+works in irrigation, roads, buildings, command
+area development etc. generate considerable
+wage employment, which support the
+employment needs of the rural sector. The
+details of wage employment generated from
+1999-2000 to 2004-05 may be seen in
+Table 4.24.
+
+TABLE 4.25
+
+Swarnajayanti Gram Swarozgar Yojana (SGSY): 1999-2000 to 2002-03
+Year
+
+Financial (Rs. lakh)
+Allocation Achievement
+
+Physical
+%
+
+Groups formed
+Target Achieved
+
+No of ‘swarozgaries’ (self employed)
+Target
+
+Achieved
+
+%
+
+1999-2000
+
+6262.20
+
+3969.52
+
+63
+
+226
+
+6534
+
+33275
+
+19004
+
+57
+
+2000-01
+
+4706.77
+
+4212.40
+
+89
+
+1695
+
+5771
+
+25025
+
+26942
+
+108
+
+2001-02
+
+3089.34
+
+5147.38
+
+167
+
+1112
+
+5592
+
+16420
+
+42944
+
+262
+
+2002-03
+
+3089.34
+
+4882.33
+
+158
+
+1112
+
+5481
+
+16420
+
+37116
+
+226
+
+Source: Government of Karnataka (2003): Annual Report 2002-03, Rural Development and Panchayat Raj Department,
+Bangalore, p. 11.
+
+92
+
+Karnataka Human Development Report 2005
+
+Concerns
+
+
+
+
+
+
+
+
+
+
+
+
+Comparable with all-India trends, Karnataka
+is experiencing a structural change in the
+composition of its State Domestic Product
+with the share of the primary sector declining
+in favour of the tertiary sector and the
+intermediary secondary sector remaining
+almost constant. Employment, however, is
+still primary sector oriented, with secondary
+and tertiary sectors contributing relatively
+lower proportions. Though the economy has
+grown at a moderate compound growth rate
+of around 6 per cent during the decade, the
+growth of the primary sector has increased
+only marginally, (by less than one per cent)
+and it is the secondary and tertiary sectors
+that have fuelled this growth in the state.
+Another area of concern is the low
+participation of women in the secondary and
+tertiary sectors. Women are found largely
+in unskilled low-end jobs like agriculture
+labour, household industries etc. Women
+constitute nearly 60 per cent of agricultural
+labourers. There is a disparity in the relative
+agricultural wages between men and women
+besides disparity in real and nominal wages.
+This further pushes women into a poverty
+trap.
+Karnataka has the second largest percentage
+of children living in poor households, rural
+and urban, among the four southern states.
+While government has initiated many
+programmes for child labour, the results
+are mixed because the policy focuses on
+rehabilitation rather than prevention.
+Existing child labour laws do not cover the
+so-called non-hazardous sectors such as
+agriculture, domestic and home-based work,
+and the informal sector, where more than 90
+per cent of children work. There is, thus, a
+contradiction between the law on compulsory
+education which bans all work during school
+hours and the child labour law.There are also
+contradictions between these two laws on
+the magnitude of punishments for employers
+of children.
+Another area of concern is negative growth
+in organised sector employment in recent
+years. While the share of the organised sector
+
+
+
+
+
+in the aggregate employment is very low at
+eight per cent, a proportion comparable with
+all-India, it will further decline to lower levels
+if remedial policy measures are not taken
+with appropriate state interventions.
+Poverty trends show a declining trend in the
+state, comparable with the all-India trend.
+However, urban poverty in Karnataka is
+higher than the rural poverty levels. One of
+the apparent reasons for the high incidence
+of urban poverty is migration from the rural
+to urban areas for employment.
+The large number of agricultural labourers
+as a proportion of the total work force
+adversely impacts labour productivity,
+per capita income and poverty levels due
+to an excessive dependence on agriculture.
+Inter-district comparisons show that leading
+districts such as Bangalore, Kodagu, and
+Dakshina Kannada have a low proportion
+of agricultural labourers in the aggregate
+employment. These districts have high
+labour productivity and per capita income,
+and a low incidence of poverty. Backward
+districts like Raichur, Gulbarga and Haveri
+have a high proportion of agricultural
+labour but relatively low productivity levels,
+per capita income and a high incidence of
+poverty.
+
+Recommendations
+
+
+
+
+Formulate a comprehensive employment
+strategy aiming at sectoral and regional
+diversification; identify appropriate labour
+intensive technologies; encourage faster
+growth in the primary sector; reduce regional
+disparities.
+Reorient the employment strategy to absorb
+the growing labour force by creating more job
+opportunities and a growth strategy focusing
+on the primary sector, which can sustain and
+absorb the increasing employment needs.
+The growth strategy must also focus on
+creating employment opportunities in the
+non-farm and household industry sectors
+which are highly labour intensive.The tertiary
+sector though contributing significantly to the
+state income, is not labour intensive and is
+confined to highly skilled jobs.There is a large
+
+There is a disparity in the
+relative agricultural wages
+between men and women
+besides disparity in real
+and nominal wages. This
+pushes women into a
+poverty trap.
+
+93
+
+Income, Employment and Poverty
+
+
+
+
+
+
+
+94
+
+chunk of the educated unemployed without
+any technical skills, who need to be provided
+with training for productive employment. The
+state must devise a policy aimed at absorbing
+such segments of the labour force through
+appropriate training.
+Strengthen policies to empower women
+to emerge from the poverty syndrome
+and to also increase access to better
+economic resources by encouraging them
+to participate in skill-based productive
+economic activities.
+Counter and reverse the process of
+marginalisation
+of
+labour
+through
+self- employment and regular employment.
+Manage rural out-migration with a suitable
+region specific employment policy to create
+more sustainable job opportunities in rural
+areas.
+
+
+
+
+
+
+
+
+
+
+Promote non-farm income generating
+activities to generate more productive
+employment opportunities in the non-farm
+sector.
+The ongoing efforts of the state government
+in setting up self-help groups like Stree Shakti
+will have to be intensified.
+Attack the problem of child labour on several
+fronts: reduction of household poverty,
+universal enrolment and retention in school,
+and strengthening legal provisions and
+enforcement.
+Amend labour legislation to cover children in
+non-hazardous sectors.
+The Bonded Labour System (Abolition) Act
+of 1976 should be amended so as to identify
+and punish those who are practising child
+bonded labour.
+
+
