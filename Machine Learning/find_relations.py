@@ -1,3 +1,5 @@
+# Using the skip-gram model, we try to find excel sheets that contain information that might be related
+
 import os
 import openpyxl
 import joblib
@@ -59,13 +61,15 @@ for excel_sheet in excel_sheets:
 
 related_sheets = {} # To store the related sheets
 
-# Find whether similarity exists between each pair
+# Find whether similarity exists between each pair.
+# We split each header into its constituent words and find similarity between those words
 for i in range(0, len(table_data)):
 
     highestSimilarity = 0
 
     for j in range(i + 1, len(table_data)):
 
+        # Splitting into constituent words
         header1 = table_data[i].split() 
         header2 = table_data[j].split()
 
@@ -76,14 +80,17 @@ for i in range(0, len(table_data)):
                 if shouldBeCompared(word1, word2):
 
                     try:
-                        similarity = model.wv.similarity(word1, word2)
+                        similarity = model.wv.similarity(word1, word2) # Find similarity
 
+                        # Update highest similarity found
                         if similarity > highestSimilarity and similarity >= 0.96 and similarity <= 0.98:
                             highestSimilarity = similarity
 
+                    # In case model cannot find similarity between word1 and word2
                     except:
                         highestSimilarity = highestSimilarity
 
+        # We keep track of the 5 most related sheets for each sheet.
         if highestSimilarity > 0:
 
             if i in related_sheets:
