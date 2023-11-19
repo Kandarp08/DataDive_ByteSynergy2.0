@@ -74,5 +74,5 @@ def find_row(input_sheet):
         if cell_obj.value=='Belagavi':
             return row_index
 output_file='lookup_table.xlsx'
-input_folder='/home/rudrap/karnataka_data_link/ExcelSheets'
+input_folder='path_to_input_folder'
 loop_through_sheets(input_folder,output_file)
