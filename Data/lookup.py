@@ -1,6 +1,8 @@
 import openpyxl
 import os
 import pathlib
+import numpy as np
+import math
 def compare(str):
 
     ind = str.find(".")
@@ -14,7 +16,7 @@ def copy_data(input_file, output_file,output_start_row, output_start_col,table_n
 
     # Select the default (first) sheet in the input workbook
     input_sheet = input_workbook.active
-    print(f'row index is {find_row(input_sheet)}')
+    # print(f'row index is {find_row(input_sheet)}')
     row_start=find_row(input_sheet)
     input_col_range=(3,input_sheet.max_column)
     input_row_range=(row_start,input_sheet.max_row)
@@ -41,8 +43,17 @@ def copy_data(input_file, output_file,output_start_row, output_start_col,table_n
         cell_obj=output_sheet.cell(row=1,column=col_index)
         cell_obj.value=f'{str(table_no)}-{str(num)}'
         num+=1
+        column_data=[]
         for row_index, value in enumerate(column, start=output_start_row):
             output_sheet.cell(row=row_index, column=col_index, value=value)
+            if value and value.isnumeric() and row_index<32:
+                column_data.append(int(value))
+        mean=np.average(column_data)
+        var=np.var(column_data)
+        std_deviation=np.std(column_data)
+        output_sheet.cell(row=33,column=col_index,value=mean)
+        output_sheet.cell(row=34,column=col_index,value=var)
+        output_sheet.cell(row=35,column=col_index,value=std_deviation)
     output_workbook.save(output_file)
     return ret_val
 
@@ -53,20 +64,16 @@ def loop_through_sheets(input_folder,output_file):
     table_no=1
     for file in excel_files:
         if os.path.splitext(file)[0]=='Table29':
-            print(col_start_index)
             table_no+=1
             continue
-        print(os.path.splitext(file))
         a=copy_data(os.path.join(input_folder,file),output_file,2,col_start_index,table_no)
         table_no+=1
         col_start_index+=a
-    # output_workbook.save(output_file)
 def find_row(input_sheet):
     for row_index in range(1,input_sheet.max_row):
         cell_obj=input_sheet.cell(row=row_index,column=2)
-        print(cell_obj.value)
         if cell_obj.value=='Belagavi':
             return row_index
-output_file='output.xlsx'
-input_folder='Path_to_input_folder'
+output_file='new_output.xlsx'
+input_folder='/home/rudrap/karnataka_data_link/ExcelSheets'
 loop_through_sheets(input_folder,output_file)
