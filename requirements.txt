@@ -5,3 +5,5 @@ openpyxl==3.1.2
 nltk==3.8.1
 pandas==2.0.3
 numpy==1.26.1
+
+The user needs to enter the no. Of the Excel file which he/she needs to access. After entering the no., the contents of the file will be displayed on the terminal
